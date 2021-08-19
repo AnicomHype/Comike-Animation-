@@ -1,8 +1,8 @@
 # mediapowered.github.io
 <h3>这是什么？</h3>
 这是基于GithubPeges搭建的网站。<BR>
-预览地址：http://mediapowered.org.cn<BR>
-项目地址：https://github.com/Dzle/mediapowered.github.io
+预览地址：http://bangumi.mediapowered.org.cn<BR>
+项目地址：https://github.com/DgiHype/mediapowered.github.io
 <h3>架构组成</h3>
  这是一个纯HTML老项目，如你所见没有任何动态语言。<BR>
   <h3>来由</h3>
@@ -13,4 +13,4 @@
 <H3> 我该如何选择我想要的代码？</H3>
  如果是学校局域网搭建的IIS服务器请下载版本号为v0.2.0的代码。往后代码都有不适合IIS服务器的JS库。
 <H3> 重构网站的计划</H3>
-我们将开始重构网站。项目地址：https://github.com/Dzle/mediapowered-new.github.io
+我们将开始重构网站。项目地址：https://github.com/DgiHype/mediapowered-new.github.io
